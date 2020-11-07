@@ -1,7 +1,7 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.0.2",
+        "locale_version": "1.0.3",
         "locale_name": "Português (Brasil)",
         "locale_type": "pt_BR",
         "locale_last_updated": "2019-10-18 12:00:00 UTC",
@@ -133,7 +133,7 @@
     "frontpage_link_addfeed_title": "Meio mais rápido: abra o feed/web page, clique no ícone do Feedbro e selecione 'Encontrar Feeds na Guia Atual'",
     "frontpage_link_addfeed_icon_title": "Meio mais rápido: abra o feed/web page, clique no ícone do Feedbro e selecione 'Encontrar Feeds na Guia Atual'",
     "frontpage_link_addfeed_body": "Adicionar um\nnovo Feed",
-    "frontpage_link_import_body": "Importar Feed\nInscrições\ncomo OPML",
+    "frontpage_link_import_body": "Importar Inscrições\nde Feed\ncomo OPML",
     "frontpage_link_settings_body": "Configurações",
     "frontpage_link_help_body": "Ajuda",
     "frontpage_description_body": "Leia notícias &amp; blogs ou qualquer outra fonte RSS/Atom/RDF.",
