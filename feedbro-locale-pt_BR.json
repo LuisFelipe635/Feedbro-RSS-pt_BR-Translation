@@ -1,13 +1,13 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.0",
+        "locale_version": "1.0.1",
         "locale_name": "Português (Brasil)",
         "locale_type": "pt_BR",
         "locale_last_updated": "2019-10-18 12:00:00 UTC",
         "locale_author_name": "Zezinho",
         "locale_author_email": "luis_felipe.635@outlook.com.br",
-        "locale_source_url": "https://"
+        "locale_source_url": "https://raw.githubusercontent.com/LuisFelipe635/Feedbro-RSS-pt_BR-Translation/main/feedbro-locale-pt_BR.json"
     },
     "addfeed_url_body": "URL do Feed",
     "addfeed_load_body": "Carregar",
