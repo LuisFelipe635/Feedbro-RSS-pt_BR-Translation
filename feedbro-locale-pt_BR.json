@@ -1,7 +1,7 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.0.3",
+        "locale_version": "1.0.4",
         "locale_name": "Português (Brasil)",
         "locale_type": "pt_BR",
         "locale_last_updated": "2019-10-18 12:00:00 UTC",
@@ -544,7 +544,7 @@
     "toolbar_viewmode4_title": "Modo de visualização 4: Modo jornal: Título + resumo + imagem (clique para abrir) - Atalho '4'",
     "toolbar_viewmode5_title": "Modo de visualização 5: Modo revista: Título + imagem + resumo (clique para abrir) - Atalho '5'",
     "toolbar_viewmode6_title": "Modo de visualização 6: Lista de títulos de artigo + artigo selecionado incorporado em um iframe do site original (ATENÇÃO! Alguns sites não permitem incorporação!) - Atalho '6'",
-    "toolbar_help_title": "Página de Ajuda do Feedbro",
+    "toolbar_help_title": "Página de Ajuda do Feedbro (em inglês)",
     "toolbar_options_title": "Abrir página de Opções/Configurações do Feedbro",
     "toolbar_reload_title": "Recarregar feed atualmente selecionado ou pasta a partir de base de dados local (não da fonte do feed) - Atalho 'r'",
     "toolbar_prev_title": "Item anterior - Atalho 'k' ou 'p'",
