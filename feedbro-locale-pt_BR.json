@@ -1,7 +1,7 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.0.5",
+        "locale_version": "1.0.6",
         "locale_name": "Português (Brasil)",
         "locale_type": "pt_BR",
         "locale_last_updated": "2019-10-18 12:00:00 UTC",
@@ -391,11 +391,12 @@
     "ruleform_condition_author_body": "Autor",
     "ruleform_condition_title_body": "Título",
     "ruleform_condition_url_body": "URL",
-    "ruleform_condition_using_body": "considerando",
+    "ruleform_condition_using_body": "usando",
     "ruleform_condition_ignorecase_body": "caso não-sensitivo",
     "ruleform_condition_ignorecase_title": "Ignora diferenças de maiúsculas e minúsculas em correspondências (menos eficiente)",
     "ruleform_condition_casesensitive_body": "caso sensitivo",
     "ruleform_condition_casesensitive_title": "Diferencia letras maiúsculas e minúsculas (mais eficiente)",
+    "ruleform_condition_matching_body": "na correspondência",
     "ruleform_condition_add_body": "Adicionar Condição",
     "ruleform_action_name_body": "Ação",
     "ruleform_action_remove_title": "Remover ação",
