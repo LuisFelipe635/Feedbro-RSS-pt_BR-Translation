@@ -1,7 +1,7 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.0.1",
+        "locale_version": "1.0.2",
         "locale_name": "Português (Brasil)",
         "locale_type": "pt_BR",
         "locale_last_updated": "2019-10-18 12:00:00 UTC",
@@ -242,7 +242,7 @@
     "options_action_locale_success": "Importe de localidade bem sucedido!",
     "options_action_update_locale_body": "Atualizar localidade",
     "options_action_locale_update_failed": "Atualização de localidade falhou! Erro: {1}",
-    "options_action_locale_update_success": "Atualização de localidade bem sucedido!",
+    "options_action_locale_update_success": "Atualização de localidade bem sucedida!",
     "options_action_template_locale_body": "Baixar Template de Localidade",
     "options_action_template_locale_title": "Use este template para traduzir o Feedbro para outro idioma.",
     "options_extensionclick_body": "Clique no Ícone do Feedbro",
